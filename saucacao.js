@@ -1,0 +1,1 @@
+let saudacao = () => "oieeeee";
